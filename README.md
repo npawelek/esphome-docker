@@ -1,4 +1,3 @@
-# ansible-docker
+# esphome-docker ![build](https://github.com/npawelek/esphome-docker/workflows/build/badge.svg)
 
-Simple multi-architecture container build of Ansible with additional support
-for Kubernetes, OpenShift, and Mitogen.
+Minimal multi-architecture container build ESPHome using Alpine Python3.8
